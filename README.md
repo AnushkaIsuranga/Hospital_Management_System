@@ -49,4 +49,4 @@ Below are the pre-defined user IDs and passwords for each role:
 
 ## Documentation
 
-For further details on system setup, configuration, and usage, please refer to the [documentation folder](documentation/) included in this repository.
+For further details on system setup, configuration, and usage, please refer to the [documentation folder](Documents/) included in this repository.
